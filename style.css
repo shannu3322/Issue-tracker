@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+    background-color:white;
+  }
+  #container{
+    background-color: cadetblue;
+    height: 60vh;
+    width: 60vh;
+    justify-content: center;
+    margin-left: 550px;
+    margin-top: 150px;
+}
+  
+  h1 {
+    text-align: center;
+  }
+  
+  form {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  label, input, select, textarea, button {
+    display: block;
+    margin: 10px 0;
+  }
+  
+  #issue-list {
+    margin-top: 20px;
+  }
+  button:hover {
+    background-color: #afa8bd;
+}
+  
